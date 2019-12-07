@@ -21,7 +21,7 @@ st.markdown('## start here')
 
 
 st.info('masuk ironman')
-mp3('../ironman_masuk_1.mp3')
+mp3('ironman_masuk_1.mp3')
 
 st.info('masuk flash')
 mp3('flash_masuk_1.wav')
