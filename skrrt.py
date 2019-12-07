@@ -20,6 +20,10 @@ st.markdown('---')
 st.markdown('## start here')
 
 
+st.info('masuk thanos')
+st.write('ini black pink tiati')
+mp3('thanos.wav')
+
 st.info('masuk ironman')
 mp3('ironman_masuk_1.mp3')
 
